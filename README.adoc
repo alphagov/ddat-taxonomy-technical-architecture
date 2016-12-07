@@ -1,0 +1,23 @@
+= Community Taxonomy for the Technical Architecture family
+
+This is the community version of the official taxonomy document. This version is designed to be more open and easy to collaborate on. Feedback from this version will be fed into the official definition of the family.
+
+== Career promise
+
+People who are part of this job family can expect the following:
+
+You will:
+
+* Work on user-centred services that make a difference to people's lives
+
+== Value delivered
+
+This job family delivers the following value to the Civil Service.
+
+* Better design of digital public services that meet user needs
+
+== Role descriptions
+
+* Technical Architect
+* Specialist Architect
+
