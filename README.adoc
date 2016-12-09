@@ -9,15 +9,30 @@ People who are part of this job family can expect the following:
 You will:
 
 * Work on user-centred services that make a difference to people's lives
+* Flexible solutions that are optimised for sustainable future change
+* Interoperable platforms that maximise reuse of capability to deliver coherent services
+* Better, faster and cheaper delivery across government through common language, ideas and practices
+* Additional skills and capabilities to allow government to be more innovative and autonomous
+* Strategic technical decisions which support digital delivery for the organisation
+* Creating technology which is useful for everyone
+* Continuously improving architecture across government
 
 == Value delivered
 
 This job family delivers the following value to the Civil Service.
 
 * Better design of digital public services that meet user needs
+* Bring diverse skills and experience to work on a unique and challenging set of problems in government
+* Be one of the first to explore interesting problems in the provision of critical government services and help to deliver the solution
+* Challenge existing ways of working and technology choices
+* Deliver cost-effective services early and often
+* Continuously develop your skills
+* Work in an open, transparent, diverse and collaborative environment
+* Work with experts in a wide range of technical and non-technical areas
+* Pioneer the adoption of new technology for government
+* Lead the evolution from legacy systems to modern technologies
 
 == Role descriptions
 
 * Technical Architect
 * Specialist Architect
-

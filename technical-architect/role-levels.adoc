@@ -1,0 +1,25 @@
+= Role levels
+
+== Principal technical architect
+
+Principal Technical Architects lead at the highest level and are responsible for ensuring the strategy is agreed and followed. They network and communicate with senior stakeholders across organisations and proactively seek out opportunities for digital transformation. They support multiple teams, finding and using best practice and emerging technologies. They inspire other architects and help them understand how to deliver the goals of the organisation. They are responsible for governance, solving complex and high risk issues or delivering architecture design.
+
+== Lead technical architect
+
+Lead Technical Architects work with multiple projects or teams on problems that require broad architectural thinking. They are responsible for leading the technical design of systems and services, and can justify and communicate their design decisions. They assure other services and system quality, ensuring the technical work fits into the broader strategy for government. They explore the benefits of cross government alignment. They provide mentoring within teams and provide leadership to other architects.
+
+== Senior technical architect
+
+Senior Technical Architects will work on large or multiple pieces of work that are complex or risky. They help define strategy and are key to assuring services. They regularly collaborate and find agreement with senior stakeholders, providing direction and challenge. They are proactive in identifying problems and translating these into non-technical descriptions that can be widely understood. They mentor and coach junior colleagues.
+
+== Technical architect
+
+Technical Architects are responsible for the design and build of technical architecture.
+
+They undertake structured analysis of technical issues, translating this analysis into technical designs that describe a solution. They can be consulted on design and are capable of providing design patterns. They identify the deeper issues that need fixing.
+
+They look for opportunities to collaborate and reuse components, communicating with both technical and non-technical stakeholders.
+
+== Associate technical architect
+
+Associates support Technical Architects in putting forward designs as solutions to technology challenges. They will undertake a similar role to a Technical Architect but may do so under supervision. They will work closely with developers when designing appropriate solutions. They must have an understanding of the overall strategy and how their work supports this.
