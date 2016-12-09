@@ -1,0 +1,4 @@
+= Technical architect
+
+Provides technical leadership and architectural design. Has a good understanding of a broad range of technologies. Able to converse easily with and translate between non-
+technical stakeholders and technical practitioners. Able to switch between different problems and responsibilities and directly involved in service delivery.
