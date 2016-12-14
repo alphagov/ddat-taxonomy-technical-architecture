@@ -37,7 +37,9 @@ The ability to look beyond the immediate technical problem and identify the wide
 
 * Seeing the Bigger Picture
 
-Governance Understands technical governance and is able to participate in or deliver the assurance of a service. This capability becomes increasingly critical at senior role levels.
+== Governance
+
+Understands technical governance and is able to participate in or deliver the assurance of a service. This capability becomes increasingly critical at senior role levels.
 
 === Civil Service capabilities
 
