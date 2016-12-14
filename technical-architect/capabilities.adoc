@@ -1,10 +1,12 @@
 = Technical architect capabilities
 
+Core Civil Service capabilities were mapped to the technical capabilities identified to avoid duplication whilst ensuring capabilities were specific to the job family.
+
 == Turning business problems into technical design
 
 The ability to work with business and technology stakeholders to translate business problems into technical designs. Creates an optimal design through an iterative process, aligning such factors as the user need with the system requirements and organisational objectives.
 
-=== Civil service capabilities
+=== Civil Service capabilities
 
 * Delivering Value for Money
 * Delivering at Pace
@@ -14,116 +16,58 @@ The ability to work with business and technology stakeholders to translate busin
 
 Translates technical concepts between Software Engineering, Delivery Management and Service Management so they are understood by all.
 
+=== Civil Service capabilities
+
 * Leading and Communicating
 * Collaborating and Partnering
 
 == Making and guiding decisions
 
-Capable of making and guiding effective decisions,
+Capable of making and guiding effective decisions, explaining clearly how the decision has been reached. The ability to understand and resolve technical disputes across varying levels of complexity and risk.
 
-explaining clearly how the decision has been reached. The
+=== Civil Service capabilities
 
-ability to understand and resolve technical disputes across
+* Making Effective Decisions
 
-varying levels of complexity and risk.
+== Understanding the whole context
 
-• Making Effective
+The ability to look beyond the immediate technical problem and identify the wider implications. 'Zooming out' in three dimensions - knowing relevant historical context and future impact, understanding how current work fits in broader contexts and strategies, and looking for deeper underlying problems and opportunities.
 
-Decisions
+== Civil Service capabilities
 
-Understanding
+* Seeing the Bigger Picture
 
-the whole
+Governance Understands technical governance and is able to participate in or deliver the assurance of a service. This capability becomes increasingly critical at senior role levels.
 
-context
+=== Civil Service capabilities
 
-The ability to look beyond the immediate technical
+* Managing a Quality Service
 
-problem and identify the wider implications. 'Zooming out'
+== Strategy
 
-in three dimensions - knowing relevant historical context &
+Capable of producing strategy for technology that meets business needs. Able to create, refine and challenge patterns, standards, policies, roadmaps and vision statements. Senior roles tend to be more proactive as they set the strategy. Junior roles tend to be more reactive, responding to the strategy.
 
-future impact, understanding how current work fits in
+=== Civil Service capabilities
 
-broader contexts and strategies, and looking for deeper
+* Changing and Improving
 
-underlying problems and opportunities.
+== Capability Descriptions
 
-• Seeing the Bigger
+Capabilities for the Technical Architecture job family were split into critical and desired. Critical capabilities are shown using a white background and desired capabilities are highlighted with a light blue background.
 
-Picture
+=== Technical Capabilities
 
-Governance Understands technical governance and is able to
+Technical capabilities have been sourced from focus groups with the Technical Architecture community.
 
-participate in or deliver the assurance of a service. This
+=== Levels of Mastery for Critical Technical Capabilities
 
-capability becomes increasingly critical at senior role
+The levels of mastery (from awareness to expert) have been mapped against the role levels for Technical Architect for each technical capability. An overview of the mapping for each of the critical and desired capabilities can be seen below and is followed by detailed definitions of the levels of mastery per capability. Critical capabilities are shown using a white background and desired capabilities are highlighted with a light blue background.
 
-levels.
-
-• Managing a Quality
-
-Service
-
-Strategy Capable of producing strategy for technology that meets
-
-business needs. Able to create, refine and challenge
-
-patterns, standards, policies, roadmaps and vision
-
-statements. Senior roles tend to be more proactive as they
-
-set the strategy. Junior roles tend to be more reactive,
-
-responding to the strategy.
-
-• Changing and
-
-Improving
-
-9
-
-5. Source: Technical Capabilities were defined during the job family focus groups on 13/10, 20/10, 25/10, 01/11 and reviewed on 09/11
-
-6. Core capabilities were mapped to the technical capabilities identified to avoid duplication whilst ensuring capabilities were specific to the job family
-
-Capability Descriptions
-
-Capabilities for the Technical Architecture job family were split into critical and desired. Critical
-
-capabilities are shown using a white background and desired capabilities are highlighted with a light
-
-blue background.
-
-Technical Capabilities5
-
-Technical capabilities have been sourced from focus groups with the Technical Architecture
-
-community.
-
-Levels of Mastery for Critical Technical Capabilities
-
-The levels of mastery (from awareness to expert) have been mapped against the role levels for
-
-Technical Architect for each technical capability. An overview of the mapping for each of the critical
-
-and desired capabilities can be seen below and is followed by detailed definitions of the levels of
-
-mastery per capability. Critical capabilities are shown using a white background and desired
-
-capabilities are highlighted with a light blue background.
-
-Overview7
+=== Overview
 
 Associate TA TA Senior TA Lead TA Principal TA
 
-Turning
-
-business
-
-problems into
-
-technical design
+Turning business problems into technical design
 
 Working Working Practitioner Expert Expert
 
