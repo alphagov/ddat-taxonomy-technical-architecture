@@ -1,8 +1,6 @@
 = Technical architect capabilities
 :toc:
 
-Core Civil Service capabilities were mapped to the technical capabilities identified to avoid duplication whilst ensuring capabilities were specific to the job family.
-
 == Turning business problems into technical design
 
 The ability to work with business and technology stakeholders to translate business problems into technical designs. Creates an optimal design through an iterative process, aligning such factors as the user need with the system requirements and organisational objectives.
