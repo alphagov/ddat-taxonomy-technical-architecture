@@ -122,166 +122,104 @@ The levels of mastery (from awareness to expert) have been mapped against the ro
 
 Mastery Level Description
 
-Turning
+=== Turning business problems into technical design
 
-business
+[cols="2"]
+|===
+|Awareness
+|Not applicable for this job family.
 
-problems into
+|Working
+|Designs systems characterised by managed levels of risk, manageable business and technical complexity and meaningful impact. Works with well-understood technology and identifies appropriate patterns.
 
-technical design
+|Practitioner
+|Designs systems characterised by medium levels of risk, impact and business or technical complexity. Works across multiple services or a single large or complicated service.
 
-Awareness Not applicable for this job family.
+|Expert
+|Designs systems characterised by high levels of risk, impact and business or technical complexity.
+|===
 
-Working Designs systems characterised by managed levels of risk, manageable
+=== Bridging the gap between technical and non-technical
 
-business and technical complexity and meaningful impact. Works with
+[cols="2"]
+|===
+|Awareness
+|Not applicable for this job family.
 
-well-understood technology and identifies appropriate patterns.
+|Working
+|Able to speak on behalf of technical teams and facilitate the relationships with indirect stakeholders.
 
-Practitioner Designs systems characterised by medium levels of risk, impact and
+|Practitioner
+|Able to listen to the needs of the technical and business stakeholders and interpret between them. Capable of proactive and reactive communication.
 
-business or technical complexity. Works across multiple services or a
+|Expert
+|Able to mediate and mend relationships, communicating with stakeholders at all levels.
+|===
 
-single large or complicated service.
+=== Making and guiding decisions
 
-Expert Designs systems characterised by high levels of risk, impact and
+[cols="2"]
+|===
+|Awareness
+|Able to recommend decisions and describe the reasoning behind these. Capable of identifying and articulating technical disputes between direct peers and local stakeholders.
 
-business or technical complexity.
+|Working
+|Able to make decisions characterised by managed levels of risk and complexity and recommend decisions as risk and complexity increase. Capable of resolving technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions.
 
-Bridging the gap
+|Practitioner
+|Able to make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase. Able to build consensus between services or independent stakeholders.
 
-between
+|Expert
+|Able to make and justify decisions characterised by high levels of risk, impact and complexity. Builds consensus between organisations (private or public) or highly independent and diverse stakeholders.
+|===
 
-technical and
+=== Understanding the whole context
 
-non-technical
+[cols="2"]
+|===
+|Awareness
+|Able to understand how their work supports the team and identify the wider influences and how they apply. Able to keep an open mind and understand the broader context.
 
-Awareness Not applicable for this job family.
+|Working
+|Able to understand trends and practices outside their team and how these will impact their work. Able to understand how their work fits into the broader strategy and historical context. Capable of considering the patterns and interactions on a larger scale.
 
-Working Able to speak on behalf of technical teams and facilitate the
+|Practitioner
+|Able to understand trends and practices within the broader organisation and how these will impact their work. Able to look for deeper underlying problems and opportunities. Can anticipate problems before they occur, and identify the impact of changes to policy.
 
-relationships with indirect stakeholders.
+|Expert
+|Able to understand trends and practices outside their organisation and how these will impact their work. Can anticipate changing policy.
+|===
 
-Practitioner Able to listen to the needs of the technical and business stakeholders
+=== Governance 
 
-and interpret between them. Capable of proactive and reactive
+[cols="2"]
+|===
+|Awareness
+|Understands how governance works and is able to participate in assurance.
 
-communication.
+|Working
+|Understands how governance works and what governance is required. Capable of taking responsibility for the assurance of parts of a service, knows what risks need to be managed.
 
-Expert Able to mediate and mend relationships, communicating with
+|Practitioner
+|Capable of evolving and defining governance and taking responsibility for collaborating and supporting in wider governance. Knows how to assure services delivered by Technical Archiects across sets of services.
 
-stakeholders at all levels.
+|Expert
+|Able to understand how technical governance works with wider governance (e.g. budget). Capable of assuring corporate services by understanding key risks and mitigation through assurance mechanisms.
+|===
 
-Making and
+=== Strategy
 
-guiding
+[cols="2"]
+|===
+|Awareness
+|Aware of the purpose and application of strategy, standards, patterns, policies, roadmaps and vision statements.
 
-decisions
+|Working
+|Capable of applying strategy, using patterns, standards, policies, roadmaps and vision statements. Able to challenge them and provide guidance.
 
-Awareness Able to recommend decisions and describe the reasoning behind these.
+|Practitioner
+|Capable of defining and challenging strategies, patterns, standards, policies, roadmaps and vision statements. Capable of providing proactive advice and guidance for their definition across the organisation.
 
-Capable of identifying and articulating technical disputes between direct
-
-peers and local stakeholders.
-
-Working Able to make decisions characterised by managed levels of risk and
-
-complexity and recommend decisions as risk and complexity increase.
-
-Capable of resolving technical disputes between wider peers and
-
-indirect stakeholders, taking into account all views and opinions.
-
-Practitioner Able to make decisions characterised by medium levels of risk and
-
-complexity and recommend decisions as risk and complexity increase.
-
-Able to build consensus between services or independent stakeholders.
-
-Expert Able to make and justify decisions characterised by high levels of risk,
-
-impact and complexity. Builds consensus between organisations
-
-(private or public) or highly independent and diverse stakeholders.
-
-7: Source: Levels of mastery were defined and mapped during the job family focus groups on 13/10, 20/10 and reviewed on 01/011 and 09/11
-
-11
-
-Mastery Level Description
-
-Understanding
-
-the whole
-
-context
-
-Awareness Able to understand how their work supports the team and identify the
-
-wider influences and how they apply. Able to keep an open mind and
-
-understand the broader context.
-
-Working Able to understand trends and practices outside their team and how these
-
-will impact their work. Able to understand how their work fits into the
-
-broader strategy and historical context. Capable of considering the
-
-patterns and interactions on a larger scale.
-
-Practitioner Able to understand trends and practices within the broader organisation
-
-and how these will impact their work. Able to look for deeper underlying
-
-problems and opportunities. Can anticipate problems before they occur,
-
-and identify the impact of changes to policy.
-
-Expert Able to understand trends and practices outside their organisation and
-
-how these will impact their work. Can anticipate changing policy.
-
-Governance Awareness Understands how governance works and is able to participate in
-
-assurance.
-
-Working Understands how governance works and what governance is required.
-
-Capable of taking responsibility for the assurance of parts of a service,
-
-knows what risks need to be managed.
-
-Practitioner Capable of evolving and defining governance and taking responsibility for
-
-collaborating and supporting in wider governance. Knows how to assure
-
-services delivered by Technical Archiects across sets of services.
-
-Expert Able to understand how technical governance works with wider
-
-governance (e.g. budget). Capable of assuring corporate services by
-
-understanding key risks and mitigation through assurance mechanisms.
-
-Strategy Awareness Aware of the purpose and application of strategy, standards, patterns,
-
-policies, roadmaps and vision statements.
-
-Working Capable of applying strategy, using patterns, standards, policies,
-
-roadmaps and vision statements. Able to challenge them and provide
-
-guidance.
-
-Practitioner Capable of defining and challenging strategies, patterns, standards,
-
-policies, roadmaps and vision statements. Capable of providing proactive
-
-advice and guidance for their definition across the organisation.
-
-Expert Capable of shaping and influencing government strategy. Able to own and
-
-be responsible for setting strategies, patterns, standards, policies,
-
-roadmaps and vision statements.
+|Expert
+|Capable of shaping and influencing government strategy. Able to own and be responsible for setting strategies, patterns, standards, policies, roadmaps and vision statements.
+|===
