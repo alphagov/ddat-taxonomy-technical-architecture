@@ -130,7 +130,7 @@ Understands technical governance and is able to participate in or deliver the as
 |Understands how governance works and what governance is required. Capable of taking responsibility for the assurance of parts of a service, knows what risks need to be managed.
 
 |Practitioner
-|Capable of evolving and defining governance and taking responsibility for collaborating and supporting in wider governance. Knows how to assure services delivered by Technical Archiects across sets of services.
+|Capable of evolving and defining governance and taking responsibility for collaborating and supporting in wider governance. Knows how to assure services delivered by technical architects across sets of services.
 
 |Expert
 |Able to understand how technical governance works with wider governance (e.g. budget). Capable of assuring corporate services by understanding key risks and mitigation through assurance mechanisms.
@@ -160,75 +160,4 @@ Capable of producing strategy for technology that meets business needs. Able to 
 
 |Expert
 |Capable of shaping and influencing government strategy. Able to own and be responsible for setting strategies, patterns, standards, policies, roadmaps and vision statements.
-|===
-
-== Levels of Mastery for Critical Technical Capabilities
-
-The levels of mastery (from awareness to expert) have been mapped against the role levels for Technical Architect for each technical capability. An overview of the mapping for each of the capabilities can be seen below.
-
-The critical capabilities are:
-
-* Turning business problems into technical design
-* Bridging the gap between the technical and non-technical
-* Making and guiding decisions
-* Understanding the whole context
-
-The desired capabilities are:
-
-* Governance
-* Strategy
-
-=== Overview
-
-[cols="6*, options="header"]
-|===
-
-|Capability
-|Associate technical architect
-|Technical architect
-|Senior technical architect
-|Lead technical architect
-|Principal technical architect
-
-|Turning business problems into technical design
-|Working
-|Working
-|Practitioner
-|Expert
-|Expert
-
-|Bridging the gap between the technical and non-technical
-|Working
-|Working
-|Practitioner
-|Expert
-|Expert
-
-|Making and guiding decisions
-|Awareness
-|Working
-|Working
-|Practitioner
-|Expert
-
-|Understanding the whole context
-|Awareness
-|Working
-|Working
-|Practitioner
-|Expert
-
-|Governance
-|Awareness
-|Working
-|Practitioner
-|Practitioner
-|Expert
-
-|Strategy
-|Awareness
-|Working
-|Working
-|Practitioner
-|Expert
 |===

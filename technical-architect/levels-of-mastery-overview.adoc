@@ -1,0 +1,70 @@
+= Levels of mastery for technical capabilities overview
+
+The levels of mastery (from awareness to expert) have been mapped against the role levels for Technical Architect for each technical capability. An overview of the mapping for each of the capabilities can be seen below.
+
+The critical capabilities are:
+
+* Turning business problems into technical design
+* Bridging the gap between the technical and non-technical
+* Making and guiding decisions
+* Understanding the whole context
+
+The desired capabilities are:
+
+* Governance
+* Strategy
+
+=== Overview
+
+[cols="6*", options="header"]
+|===
+
+|Capability
+|Associate technical architect
+|Technical architect
+|Senior technical architect
+|Lead technical architect
+|Principal technical architect
+
+|Turning business problems into technical design
+|Working
+|Working
+|Practitioner
+|Expert
+|Expert
+
+|Bridging the gap between the technical and non-technical
+|Working
+|Working
+|Practitioner
+|Expert
+|Expert
+
+|Making and guiding decisions
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
+
+|Understanding the whole context
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
+
+|Governance
+|Awareness
+|Working
+|Practitioner
+|Practitioner
+|Expert
+
+|Strategy
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
+|===
