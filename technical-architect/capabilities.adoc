@@ -12,6 +12,24 @@ The ability to work with business and technology stakeholders to translate busin
 * Delivering at Pace
 * Achieving Commercial Excellence
 
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Not applicable for this job family.
+
+|Working
+|Designs systems characterised by managed levels of risk, manageable business and technical complexity and meaningful impact. Works with well-understood technology and identifies appropriate patterns.
+
+|Practitioner
+|Designs systems characterised by medium levels of risk, impact and business or technical complexity. Works across multiple services or a single large or complicated service.
+
+|Expert
+|Designs systems characterised by high levels of risk, impact and business or technical complexity.
+|===
+
 == Bridging the gap between the technical and non-technical
 
 Translates technical concepts between Software Engineering, Delivery Management and Service Management so they are understood by all.
@@ -21,6 +39,24 @@ Translates technical concepts between Software Engineering, Delivery Management 
 * Leading and Communicating
 * Collaborating and Partnering
 
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Not applicable for this job family.
+
+|Working
+|Able to speak on behalf of technical teams and facilitate the relationships with indirect stakeholders.
+
+|Practitioner
+|Able to listen to the needs of the technical and business stakeholders and interpret between them. Capable of proactive and reactive communication.
+
+|Expert
+|Able to mediate and mend relationships, communicating with stakeholders at all levels.
+|===
+
 == Making and guiding decisions
 
 Capable of making and guiding effective decisions, explaining clearly how the decision has been reached. The ability to understand and resolve technical disputes across varying levels of complexity and risk.
@@ -29,13 +65,49 @@ Capable of making and guiding effective decisions, explaining clearly how the de
 
 * Making Effective Decisions
 
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Able to recommend decisions and describe the reasoning behind these. Capable of identifying and articulating technical disputes between direct peers and local stakeholders.
+
+|Working
+|Able to make decisions characterised by managed levels of risk and complexity and recommend decisions as risk and complexity increase. Capable of resolving technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions.
+
+|Practitioner
+|Able to make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase. Able to build consensus between services or independent stakeholders.
+
+|Expert
+|Able to make and justify decisions characterised by high levels of risk, impact and complexity. Builds consensus between organisations (private or public) or highly independent and diverse stakeholders.
+|===
+
 == Understanding the whole context
 
 The ability to look beyond the immediate technical problem and identify the wider implications. 'Zooming out' in three dimensions - knowing relevant historical context and future impact, understanding how current work fits in broader contexts and strategies, and looking for deeper underlying problems and opportunities.
 
-== Civil Service capabilities
+=== Civil Service capabilities
 
 * Seeing the Bigger Picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Able to understand how their work supports the team and identify the wider influences and how they apply. Able to keep an open mind and understand the broader context.
+
+|Working
+|Able to understand trends and practices outside their team and how these will impact their work. Able to understand how their work fits into the broader strategy and historical context. Capable of considering the patterns and interactions on a larger scale.
+
+|Practitioner
+|Able to understand trends and practices within the broader organisation and how these will impact their work. Able to look for deeper underlying problems and opportunities. Can anticipate problems before they occur, and identify the impact of changes to policy.
+
+|Expert
+|Able to understand trends and practices outside their organisation and how these will impact their work. Can anticipate changing policy.
+|===
 
 == Governance
 
@@ -45,6 +117,24 @@ Understands technical governance and is able to participate in or deliver the as
 
 * Managing a Quality Service
 
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands how governance works and is able to participate in assurance.
+
+|Working
+|Understands how governance works and what governance is required. Capable of taking responsibility for the assurance of parts of a service, knows what risks need to be managed.
+
+|Practitioner
+|Capable of evolving and defining governance and taking responsibility for collaborating and supporting in wider governance. Knows how to assure services delivered by Technical Archiects across sets of services.
+
+|Expert
+|Able to understand how technical governance works with wider governance (e.g. budget). Capable of assuring corporate services by understanding key risks and mitigation through assurance mechanisms.
+|===
+
 == Strategy
 
 Capable of producing strategy for technology that meets business needs. Able to create, refine and challenge patterns, standards, policies, roadmaps and vision statements. Senior roles tend to be more proactive as they set the strategy. Junior roles tend to be more reactive, responding to the strategy.
@@ -53,15 +143,25 @@ Capable of producing strategy for technology that meets business needs. Able to 
 
 * Changing and Improving
 
-== Capability Descriptions
+=== Levels of mastery
 
-Capabilities for the Technical Architecture job family were split into critical and desired. Critical capabilities are shown using a white background and desired capabilities are highlighted with a light blue background.
+|===
+|Level|Description
 
-=== Technical Capabilities
+|Awareness
+|Aware of the purpose and application of strategy, standards, patterns, policies, roadmaps and vision statements.
 
-Technical capabilities have been sourced from focus groups with the Technical Architecture community.
+|Working
+|Capable of applying strategy, using patterns, standards, policies, roadmaps and vision statements. Able to challenge them and provide guidance.
 
-=== Levels of Mastery for Critical Technical Capabilities
+|Practitioner
+|Capable of defining and challenging strategies, patterns, standards, policies, roadmaps and vision statements. Capable of providing proactive advice and guidance for their definition across the organisation.
+
+|Expert
+|Capable of shaping and influencing government strategy. Able to own and be responsible for setting strategies, patterns, standards, policies, roadmaps and vision statements.
+|===
+
+== Levels of Mastery for Critical Technical Capabilities
 
 The levels of mastery (from awareness to expert) have been mapped against the role levels for Technical Architect for each technical capability. An overview of the mapping for each of the critical and desired capabilities can be seen below and is followed by detailed definitions of the levels of mastery per capability. Critical capabilities are shown using a white background and desired capabilities are highlighted with a light blue background.
 
@@ -118,110 +218,4 @@ The levels of mastery (from awareness to expert) have been mapped against the ro
 |Working
 |Practitioner
 |Expert
-|===
-
-== Levels of Mastery Detailed Definitions for Technical Capabilities
-
-Mastery Level Description
-
-=== Turning business problems into technical design
-
-[cols="2"]
-|===
-|Awareness
-|Not applicable for this job family.
-
-|Working
-|Designs systems characterised by managed levels of risk, manageable business and technical complexity and meaningful impact. Works with well-understood technology and identifies appropriate patterns.
-
-|Practitioner
-|Designs systems characterised by medium levels of risk, impact and business or technical complexity. Works across multiple services or a single large or complicated service.
-
-|Expert
-|Designs systems characterised by high levels of risk, impact and business or technical complexity.
-|===
-
-=== Bridging the gap between technical and non-technical
-
-[cols="2"]
-|===
-|Awareness
-|Not applicable for this job family.
-
-|Working
-|Able to speak on behalf of technical teams and facilitate the relationships with indirect stakeholders.
-
-|Practitioner
-|Able to listen to the needs of the technical and business stakeholders and interpret between them. Capable of proactive and reactive communication.
-
-|Expert
-|Able to mediate and mend relationships, communicating with stakeholders at all levels.
-|===
-
-=== Making and guiding decisions
-
-[cols="2"]
-|===
-|Awareness
-|Able to recommend decisions and describe the reasoning behind these. Capable of identifying and articulating technical disputes between direct peers and local stakeholders.
-
-|Working
-|Able to make decisions characterised by managed levels of risk and complexity and recommend decisions as risk and complexity increase. Capable of resolving technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions.
-
-|Practitioner
-|Able to make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase. Able to build consensus between services or independent stakeholders.
-
-|Expert
-|Able to make and justify decisions characterised by high levels of risk, impact and complexity. Builds consensus between organisations (private or public) or highly independent and diverse stakeholders.
-|===
-
-=== Understanding the whole context
-
-[cols="2"]
-|===
-|Awareness
-|Able to understand how their work supports the team and identify the wider influences and how they apply. Able to keep an open mind and understand the broader context.
-
-|Working
-|Able to understand trends and practices outside their team and how these will impact their work. Able to understand how their work fits into the broader strategy and historical context. Capable of considering the patterns and interactions on a larger scale.
-
-|Practitioner
-|Able to understand trends and practices within the broader organisation and how these will impact their work. Able to look for deeper underlying problems and opportunities. Can anticipate problems before they occur, and identify the impact of changes to policy.
-
-|Expert
-|Able to understand trends and practices outside their organisation and how these will impact their work. Can anticipate changing policy.
-|===
-
-=== Governance 
-
-[cols="2"]
-|===
-|Awareness
-|Understands how governance works and is able to participate in assurance.
-
-|Working
-|Understands how governance works and what governance is required. Capable of taking responsibility for the assurance of parts of a service, knows what risks need to be managed.
-
-|Practitioner
-|Capable of evolving and defining governance and taking responsibility for collaborating and supporting in wider governance. Knows how to assure services delivered by Technical Archiects across sets of services.
-
-|Expert
-|Able to understand how technical governance works with wider governance (e.g. budget). Capable of assuring corporate services by understanding key risks and mitigation through assurance mechanisms.
-|===
-
-=== Strategy
-
-[cols="2"]
-|===
-|Awareness
-|Aware of the purpose and application of strategy, standards, patterns, policies, roadmaps and vision statements.
-
-|Working
-|Capable of applying strategy, using patterns, standards, policies, roadmaps and vision statements. Able to challenge them and provide guidance.
-
-|Practitioner
-|Capable of defining and challenging strategies, patterns, standards, policies, roadmaps and vision statements. Capable of providing proactive advice and guidance for their definition across the organisation.
-
-|Expert
-|Capable of shaping and influencing government strategy. Able to own and be responsible for setting strategies, patterns, standards, policies, roadmaps and vision statements.
 |===
