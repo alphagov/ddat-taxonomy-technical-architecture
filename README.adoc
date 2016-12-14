@@ -1,6 +1,6 @@
 = Community Taxonomy for the Technical Architecture family
 
-This is the community version of the official taxonomy document. This version is designed to be more open and easy to collaborate on. Feedback from this version will be fed into the official definition of the family.
+This is the community version of the official taxonomy document. This version is designed to be more open and easy to collaborate on. Feedback from this version will be fed back to the Professions team for consideration into the official definition of the family.
 
 == Career promise
 

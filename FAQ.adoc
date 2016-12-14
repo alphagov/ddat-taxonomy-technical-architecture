@@ -1,0 +1,5 @@
+= Frequently asked questions
+
+== Why did you use Asciidoc instead of Markdown?
+
+Because the original documents had a lot of tables that I didn't want to have deal with in raw HTML.

@@ -1,0 +1,9 @@
+= Contributing
+
+Please raise an issue before submitting a pull request and link the any subsequent pull request to the original issue.
+
+== Types of changes
+
+The community edition of the technical architecture family is not meant to substantially different from the official version of the profession description. Instead it is meant to support the adoption of the framework by providing a place for feedback, clarification and expansion on the base document of the published framework.
+
+Where changes are proposed that would substantially change the taxonomy definition and would possibly require a re-approval of the taxonomy we may not be able to accept them immediately but would need to agree a process by which the changes can be trialled and included in the official taxonomy document.
