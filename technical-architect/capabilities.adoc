@@ -1,4 +1,5 @@
 = Technical architect capabilities
+:toc:
 
 Core Civil Service capabilities were mapped to the technical capabilities identified to avoid duplication whilst ensuring capabilities were specific to the job family.
 
