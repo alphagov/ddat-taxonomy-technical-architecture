@@ -65,47 +65,60 @@ The levels of mastery (from awareness to expert) have been mapped against the ro
 
 === Overview
 
-Associate TA TA Senior TA Lead TA Principal TA
+[cols="6*, options="header"]
+|===
 
-Turning business problems into technical design
+|Capability
+|Associate technical architect
+|Technical architect
+|Senior technical architect
+|Lead technical architect
+|Principal technical architect
 
-Working Working Practitioner Expert Expert
+|Turning business problems into technical design
+|Working
+|Working
+|Practitioner
+|Expert
+|Expert
 
-Bridging the gap
+|Bridging the gap between the technical and non-technical
+|Working
+|Working
+|Practitioner
+|Expert
+|Expert
 
-between the
+|Making and guiding decisions
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
 
-technical and
+|Understanding the whole context
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
 
-non-technical
+|Governance
+|Awareness
+|Working
+|Practitioner
+|Practitioner
+|Expert
 
-Working Working Practitioner Expert Expert
+|Strategy
+|Awareness
+|Working
+|Working
+|Practitioner
+|Expert
+|===
 
-Making and
-
-guiding
-
-decisions
-
-Awareness Working Working Practitioner Expert
-
-Understanding
-
-the whole
-
-context
-
-Awareness Working Working Practitioner Expert
-
-Governance Awareness Working Practitioner Practitioner Expert
-
-Strategy Awareness Working Working Practitioner Expert
-
-7. Source: Levels of mastery were defined and mapped during the job family focus groups on 13/10, 20/10 and reviewed on 01/011 and 09/11
-
-10
-
-Levels of Mastery Detailed Definitions for Technical Capabilities7
+== Levels of Mastery Detailed Definitions for Technical Capabilities
 
 Mastery Level Description
 
