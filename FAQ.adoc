@@ -6,6 +6,12 @@ It exists to support the official version and to help answer questions on adopti
 
 It will also provide a way to trial and publicise changes to the taxonomy ahead of making a change to the official version. We should be able to experiment more freely with the community version and then only retain useful changes in the official version, which will have a more rigourous sign-off process.
 
+== What about hands-on technical architects?
+
+Technical architects who are also involved in the delivery of the projects they work on should combine capabilities from the software engineering job family with the technical architect capabilities to fully describe their role.
+
+This equally applies to technical architects who are involved in the creation or analysis of requirements or who have delivery managment responsibility. Your job may span multiple families.
+
 == Why is the community version on Github?
 
 In discussions with community members publishing on Github was the most popular option. In addition having a Git-based version provides all the auditing and change control systems the Professions team wanted for the community version.
