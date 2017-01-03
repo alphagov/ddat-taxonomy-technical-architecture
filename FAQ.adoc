@@ -1,5 +1,15 @@
 = Frequently asked questions
 
+== Why have a community version of the taxonomy?
+
+It exists to support the official version and to help answer questions on adopting and adapting the framework to other needs across government.
+
+It will also provide a way to trial and publicise changes to the taxonomy ahead of making a change to the official version. We should be able to experiment more freely with the community version and then only retain useful changes in the official version, which will have a more rigourous sign-off process.
+
+== Why is the community version on Github?
+
+In discussions with community members publishing on Github was the most popular option. In addition having a Git-based version provides all the auditing and change control systems the Professions team wanted for the community version.
+
 == Why did you use Asciidoc instead of Markdown?
 
 Because the original documents had a lot of tables that I didn't want to have deal with in raw HTML.
